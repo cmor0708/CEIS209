@@ -1,0 +1,10 @@
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.csproj.AssemblyReference.cache
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.MainForm.resources
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.Properties.Resources.resources
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.csproj.GenerateResource.cache
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.csproj.CoreCompileInputs.cache
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\bin\Debug\Morse_CourseProject_Part1.exe.config
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\bin\Debug\Morse_CourseProject_Part1.exe
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\bin\Debug\Morse_CourseProject_Part1.pdb
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.exe
+C:\Users\cmor0\OneDrive\Desktop\CEIS209\Morse_CourseProject_Part1\obj\Debug\Morse_CourseProject_Part1.pdb
